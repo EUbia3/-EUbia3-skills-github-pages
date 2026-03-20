@@ -14,9 +14,9 @@ I work with data to uncover insights and support better business decisions, espe
 Projects focused on data analysis, dashboards, and business case studies.
 
 What I focus on;
-- [ ] Data analysis and visualization
-- [ ] Financial and operational insights
-- [ ] Business process understanding (SAP FICO)
+-  Data analysis and visualization
+-  Financial and operational insights
+-  Business process understanding (SAP FICO)
 
 Tools I use
 Python, SQL, Power BI, Excel, Tableau, SAP

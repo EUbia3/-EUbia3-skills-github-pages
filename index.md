@@ -2,8 +2,6 @@
 title: Welcome to my blog!
 ---
 
-# Welcome to my blog!
-
 ## About Me
 
 I’m Emem, a data analyst with a background in accounting and hands-on experience with SAP S/4HANA (FICO).

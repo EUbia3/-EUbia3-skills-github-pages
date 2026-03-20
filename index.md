@@ -1,6 +1,8 @@
 ---
-Welcome to my blog!
+title: Welcome to my blog!
 ---
+
+# Welcome to my blog!
 
 ## About Me
 
@@ -8,15 +10,14 @@ I’m Emem, a data analyst with a background in accounting and hands-on experien
 
 I work with data to uncover insights and support better business decisions, especially in finance and operations.
 
----
 ## What you’ll find here;
 
 Projects focused on data analysis, dashboards, and business case studies.
 
-What I focus on;
+**What I focus on:**
 -  Data analysis and visualization
 -  Financial and operational insights
 -  Business process understanding (SAP FICO)
 
-Tools I use
+**Tools I use:**
 Python, SQL, Power BI, Excel, Tableau, SAP
